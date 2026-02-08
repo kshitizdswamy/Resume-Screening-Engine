@@ -1,2 +1,10 @@
-We are looking for a candidate with C++ and OOP skills.
-Knowledge of DSA is required and NodeJs
+We are looking for a software development intern with a strong interest in backend programming.
+
+The candidate should have knowledge of C++ and object oriented programming concepts.
+Understanding of data structures and basic algorithms is required.
+
+Basic experience with Python is a plus.
+Familiarity with backend systems, servers, and databases will be helpful.
+
+The role involves working on logic-driven applications and learning real-world software development practices.
+
