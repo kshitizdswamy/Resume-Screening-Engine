@@ -1,2 +1,13 @@
-I know C++ and OOP
-I want an internship
+I am a computer applications graduate with a strong interest in software development.
+
+I have experience working with C++ and object oriented programming concepts.
+I regularly use C++ to build small programs and practice problem solving.
+
+I am familiar with data structures and basic algorithms.
+I have practiced arrays, strings, and logical problem solving.
+
+I also have working knowledge of Python and have used it for small scripting tasks.
+I understand basic backend concepts and server-side logic.
+I have worked with databases at a basic level and understand how data is stored and queried.
+I am eager to learn new technologies and improve my skills through real-world projects.
+
