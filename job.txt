@@ -1,0 +1,2 @@
+We are looking for a candidate with C++ and OOP skills.
+Knowledge of DSA is required and NodeJs
